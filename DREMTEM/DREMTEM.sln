@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DA0E03DB-E4D2-11B3-69F9-F4CDA28E9A8D}") = "DREMTEM", "Assembly-CSharp.csproj", "{0B5520A5-14A3-E127-6070-5EC0C28F7923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5520A5-14A3-E127-6070-5EC0C28F7923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5520A5-14A3-E127-6070-5EC0C28F7923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5520A5-14A3-E127-6070-5EC0C28F7923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5520A5-14A3-E127-6070-5EC0C28F7923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
